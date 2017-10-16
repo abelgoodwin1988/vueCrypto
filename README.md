@@ -1,6 +1,7 @@
 # vue-crypto
 
-> Interface for comparing crypto's with charts and historical values
+> A Singe Page App for comparing a single cryptocurrency against up to five other cryptocurrencies.
+> The application will include current trading values denominated in the value of the compared cryptocurrency as well as historical values denominated against the USD.
 
 ## Build Setup
 
