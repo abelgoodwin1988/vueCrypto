@@ -6,6 +6,7 @@
     <p class="subtitle">
       My first website with <strong>Bulma</strong>!
     </p>
+    <span class="icon is-large"><i class="fa fa-question-circle-o"></i></span>
   </div>
 </template>
 
