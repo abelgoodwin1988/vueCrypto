@@ -15,5 +15,6 @@
 </script>
 
 <style lang="css">
+  @import "../node_modules/font-awesome/css/font-awesome.min.css";
   @import "../node_modules/bulma/css/bulma.css";
 </style>
